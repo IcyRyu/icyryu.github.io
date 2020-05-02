@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I am Eric</title>
+    <link>https://example.com/</link>
+    <description>Recent content on I am Eric</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2020 23:31:03 -0600</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Me</title>
+      <link>https://example.com/me/</link>
+      <pubDate>Fri, 01 May 2020 23:31:03 -0600</pubDate>
+      
+      <guid>https://example.com/me/</guid>
+      <description>Hello, I&amp;rsquo;m Eric. I&amp;rsquo;m currently enrolled in the University of Calgary for Electrical Engineering. I have a double minor in Astrophysics and Digital Engineering (Machine Learning &amp;amp; AI). Additionally, I am currently club president of Ori-Aid, the university&amp;rsquo;s official origami club/charity.
+Arch linux is my go-to operating system, it works off the premise of a rolled-release, meaning that it is always changing and transforming, much like the world itself (but a virtual one)!</description>
+    </item>
+    
+  </channel>
+</rss>
